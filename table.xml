@@ -1,0 +1,2645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <values>
+   <prtg-version>13.1.2.1462</prtg-version>
+   <item>
+    <datetime>12/8/2017 12:13:10 AM</datetime>
+    <datetime_raw>43076.7591438079</datetime_raw>
+    <value channel="Traffic Total (volume)">16 MByte</value>
+    <value_raw channel="Traffic Total (volume)">17185310.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">286469.5783</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2023971.0000</value_raw>
+    <value channel="Traffic In (speed)">0.27 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">33738.4731</value_raw>
+    <value channel="Traffic Out (volume)">14 MByte</value>
+    <value_raw channel="Traffic Out (volume)">15161339.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">252731.1052</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:12:10 AM</datetime>
+    <datetime_raw>43076.7584493866</datetime_raw>
+    <value channel="Traffic Total (volume)">24 MByte</value>
+    <value_raw channel="Traffic Total (volume)">25495940.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">425144.9058</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2003383.0000</value_raw>
+    <value channel="Traffic In (speed)">0.27 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">33406.4199</value_raw>
+    <value channel="Traffic Out (volume)">22 MByte</value>
+    <value_raw channel="Traffic Out (volume)">23492557.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">391738.4859</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:11:10 AM</datetime>
+    <datetime_raw>43076.7577552431</datetime_raw>
+    <value channel="Traffic Total (volume)">13 MByte</value>
+    <value_raw channel="Traffic Total (volume)">13878475.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">231192.3205</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2214640.0000</value_raw>
+    <value channel="Traffic In (speed)">0.30 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">36892.2206</value_raw>
+    <value channel="Traffic Out (volume)">11 MByte</value>
+    <value_raw channel="Traffic Out (volume)">11663835.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">194300.1000</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:10:10 AM</datetime>
+    <datetime_raw>43076.7570604051</datetime_raw>
+    <value channel="Traffic Total (volume)">50 MByte</value>
+    <value_raw channel="Traffic Total (volume)">52777611.0000</value_raw>
+    <value channel="Traffic Total (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">880066.8834</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3047146.0000</value_raw>
+    <value channel="Traffic In (speed)">0.41 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">50811.1723</value_raw>
+    <value channel="Traffic Out (volume)">47 MByte</value>
+    <value_raw channel="Traffic Out (volume)">49730465.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">829255.7112</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:09:10 AM</datetime>
+    <datetime_raw>43076.7563662500</datetime_raw>
+    <value channel="Traffic Total (volume)">56 MByte</value>
+    <value_raw channel="Traffic Total (volume)">58644660.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">977248.1253</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4077505.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">67947.0922</value_raw>
+    <value channel="Traffic Out (volume)">52 MByte</value>
+    <value_raw channel="Traffic Out (volume)">54567155.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">909301.0332</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:08:10 AM</datetime>
+    <datetime_raw>43076.7556715972</datetime_raw>
+    <value channel="Traffic Total (volume)">60 MByte</value>
+    <value_raw channel="Traffic Total (volume)">63104774.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1051746.2333</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2969386.0000</value_raw>
+    <value channel="Traffic In (speed)">0.40 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">49489.7667</value_raw>
+    <value channel="Traffic Out (volume)">57 MByte</value>
+    <value_raw channel="Traffic Out (volume)">60135388.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1002256.4667</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:07:10 AM</datetime>
+    <datetime_raw>43076.7549770602</datetime_raw>
+    <value channel="Traffic Total (volume)">57 MByte</value>
+    <value_raw channel="Traffic Total (volume)">60120874.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1002515.8246</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3422506.0000</value_raw>
+    <value channel="Traffic In (speed)">0.46 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">57070.3018</value_raw>
+    <value channel="Traffic Out (volume)">54 MByte</value>
+    <value_raw channel="Traffic Out (volume)">56698368.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">945445.5228</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:06:10 AM</datetime>
+    <datetime_raw>43076.7542829051</datetime_raw>
+    <value channel="Traffic Total (volume)">63 MByte</value>
+    <value_raw channel="Traffic Total (volume)">66271336.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1104522.2667</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4082749.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">68045.8167</value_raw>
+    <value channel="Traffic Out (volume)">59 MByte</value>
+    <value_raw channel="Traffic Out (volume)">62188587.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1036476.4500</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:05:10 AM</datetime>
+    <datetime_raw>43076.7535883681</datetime_raw>
+    <value channel="Traffic Total (volume)">57 MByte</value>
+    <value_raw channel="Traffic Total (volume)">59790369.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">996340.0933</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2514925.0000</value_raw>
+    <value channel="Traffic In (speed)">0.34 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">41908.4319</value_raw>
+    <value channel="Traffic Out (volume)">55 MByte</value>
+    <value_raw channel="Traffic Out (volume)">57275444.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">954431.6614</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:04:10 AM</datetime>
+    <datetime_raw>43076.7528937269</datetime_raw>
+    <value channel="Traffic Total (volume)">34 MByte</value>
+    <value_raw channel="Traffic Total (volume)">36139806.0000</value_raw>
+    <value channel="Traffic Total (speed)">5 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">602530.9436</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2427942.0000</value_raw>
+    <value channel="Traffic In (speed)">0.32 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">40479.1931</value_raw>
+    <value channel="Traffic Out (volume)">32 MByte</value>
+    <value_raw channel="Traffic Out (volume)">33711864.0000</value_raw>
+    <value channel="Traffic Out (speed)">4 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">562051.7506</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:03:10 AM</datetime>
+    <datetime_raw>43076.7521994907</datetime_raw>
+    <value channel="Traffic Total (volume)">55 MByte</value>
+    <value_raw channel="Traffic Total (volume)">57490834.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">958340.2900</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2875961.0000</value_raw>
+    <value channel="Traffic In (speed)">0.38 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">47940.6734</value_raw>
+    <value channel="Traffic Out (volume)">52 MByte</value>
+    <value_raw channel="Traffic Out (volume)">54614873.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">910399.6166</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:02:10 AM</datetime>
+    <datetime_raw>43076.7515051620</datetime_raw>
+    <value channel="Traffic Total (volume)">55 MByte</value>
+    <value_raw channel="Traffic Total (volume)">57248945.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">953990.0850</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3002333.0000</value_raw>
+    <value channel="Traffic In (speed)">0.40 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">50030.5449</value_raw>
+    <value channel="Traffic Out (volume)">52 MByte</value>
+    <value_raw channel="Traffic Out (volume)">54246612.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">903959.5401</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:01:10 AM</datetime>
+    <datetime_raw>43076.7508105556</datetime_raw>
+    <value channel="Traffic Total (volume)">67 MByte</value>
+    <value_raw channel="Traffic Total (volume)">70134797.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1168718.4969</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3090115.0000</value_raw>
+    <value channel="Traffic In (speed)">0.41 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">51493.3344</value_raw>
+    <value channel="Traffic Out (volume)">64 MByte</value>
+    <value_raw channel="Traffic Out (volume)">67044682.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1117225.1625</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/8/2017 12:00:10 AM</datetime>
+    <datetime_raw>43076.7501159722</datetime_raw>
+    <value channel="Traffic Total (volume)">74 MByte</value>
+    <value_raw channel="Traffic Total (volume)">77643785.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1294494.5815</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3584724.0000</value_raw>
+    <value channel="Traffic In (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">59765.3218</value_raw>
+    <value channel="Traffic Out (volume)">71 MByte</value>
+    <value_raw channel="Traffic Out (volume)">74059061.0000</value_raw>
+    <value channel="Traffic Out (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1234729.2598</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:59:10 PM</datetime>
+    <datetime_raw>43076.7494216667</datetime_raw>
+    <value channel="Traffic Total (volume)">63 MByte</value>
+    <value_raw channel="Traffic Total (volume)">66281181.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1104686.3500</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3631214.0000</value_raw>
+    <value channel="Traffic In (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">60520.2333</value_raw>
+    <value channel="Traffic Out (volume)">60 MByte</value>
+    <value_raw channel="Traffic Out (volume)">62649967.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1044166.1167</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:58:10 PM</datetime>
+    <datetime_raw>43076.7487271412</datetime_raw>
+    <value channel="Traffic Total (volume)">62 MByte</value>
+    <value_raw channel="Traffic Total (volume)">64868024.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1081494.2314</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3824693.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">63766.1387</value_raw>
+    <value channel="Traffic Out (volume)">58 MByte</value>
+    <value_raw channel="Traffic Out (volume)">61043331.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1017728.0927</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:57:10 PM</datetime>
+    <datetime_raw>43076.7480328472</datetime_raw>
+    <value channel="Traffic Total (volume)">75 MByte</value>
+    <value_raw channel="Traffic Total (volume)">78433214.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1307220.2333</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3266275.0000</value_raw>
+    <value channel="Traffic In (speed)">0.44 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">54437.9167</value_raw>
+    <value channel="Traffic Out (volume)">72 MByte</value>
+    <value_raw channel="Traffic Out (volume)">75166939.0000</value_raw>
+    <value channel="Traffic Out (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1252782.3167</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:56:10 PM</datetime>
+    <datetime_raw>43076.7473383796</datetime_raw>
+    <value channel="Traffic Total (volume)">68 MByte</value>
+    <value_raw channel="Traffic Total (volume)">71496171.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1191801.4836</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4008148.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">66813.6023</value_raw>
+    <value channel="Traffic Out (volume)">64 MByte</value>
+    <value_raw channel="Traffic Out (volume)">67488023.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1124987.8813</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:55:10 PM</datetime>
+    <datetime_raw>43076.7466440046</datetime_raw>
+    <value channel="Traffic Total (volume)">74 MByte</value>
+    <value_raw channel="Traffic Total (volume)">77848888.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1297265.2558</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2991402.0000</value_raw>
+    <value channel="Traffic In (speed)">0.40 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">49848.3919</value_raw>
+    <value channel="Traffic Out (volume)">71 MByte</value>
+    <value_raw channel="Traffic Out (volume)">74857486.0000</value_raw>
+    <value channel="Traffic Out (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1247416.8639</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:54:10 PM</datetime>
+    <datetime_raw>43076.7459493750</datetime_raw>
+    <value channel="Traffic Total (volume)">71 MByte</value>
+    <value_raw channel="Traffic Total (volume)">74308705.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1238684.8641</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4070795.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">67857.8930</value_raw>
+    <value channel="Traffic Out (volume)">67 MByte</value>
+    <value_raw channel="Traffic Out (volume)">70237910.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1170826.9712</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:53:10 PM</datetime>
+    <datetime_raw>43076.7452549537</datetime_raw>
+    <value channel="Traffic Total (volume)">46 MByte</value>
+    <value_raw channel="Traffic Total (volume)">48660276.0000</value_raw>
+    <value channel="Traffic Total (speed)">6 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">811275.0250</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2623306.0000</value_raw>
+    <value channel="Traffic In (speed)">0.35 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">43736.3454</value_raw>
+    <value channel="Traffic Out (volume)">44 MByte</value>
+    <value_raw channel="Traffic Out (volume)">46036970.0000</value_raw>
+    <value channel="Traffic Out (speed)">6 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">767538.6796</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:52:10 PM</datetime>
+    <datetime_raw>43076.7445606481</datetime_raw>
+    <value channel="Traffic Total (volume)">79 MByte</value>
+    <value_raw channel="Traffic Total (volume)">82441445.0000</value_raw>
+    <value channel="Traffic Total (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1374253.1255</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3246629.0000</value_raw>
+    <value channel="Traffic In (speed)">0.43 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">54119.5033</value_raw>
+    <value channel="Traffic Out (volume)">76 MByte</value>
+    <value_raw channel="Traffic Out (volume)">79194816.0000</value_raw>
+    <value channel="Traffic Out (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1320133.6223</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:51:10 PM</datetime>
+    <datetime_raw>43076.7438662153</datetime_raw>
+    <value channel="Traffic Total (volume)">66 MByte</value>
+    <value_raw channel="Traffic Total (volume)">68997604.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1149960.0667</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3806329.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">63438.8167</value_raw>
+    <value channel="Traffic Out (volume)">62 MByte</value>
+    <value_raw channel="Traffic Out (volume)">65191275.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1086521.2500</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:50:10 PM</datetime>
+    <datetime_raw>43076.7431717245</datetime_raw>
+    <value channel="Traffic Total (volume)">62 MByte</value>
+    <value_raw channel="Traffic Total (volume)">65235154.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1087252.5667</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2801848.0000</value_raw>
+    <value channel="Traffic In (speed)">0.37 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">46697.4667</value_raw>
+    <value channel="Traffic Out (volume)">60 MByte</value>
+    <value_raw channel="Traffic Out (volume)">62433306.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1040555.1000</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:49:10 PM</datetime>
+    <datetime_raw>43076.7424772454</datetime_raw>
+    <value channel="Traffic Total (volume)">67 MByte</value>
+    <value_raw channel="Traffic Total (volume)">69971161.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1166186.0167</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4151489.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">69191.4833</value_raw>
+    <value channel="Traffic Out (volume)">63 MByte</value>
+    <value_raw channel="Traffic Out (volume)">65819672.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1096994.5333</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:48:10 PM</datetime>
+    <datetime_raw>43076.7417827662</datetime_raw>
+    <value channel="Traffic Total (volume)">55 MByte</value>
+    <value_raw channel="Traffic Total (volume)">57840327.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">964166.1444</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2754836.0000</value_raw>
+    <value channel="Traffic In (speed)">0.37 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">45921.5869</value_raw>
+    <value channel="Traffic Out (volume)">53 MByte</value>
+    <value_raw channel="Traffic Out (volume)">55085491.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">918244.5574</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:47:10 PM</datetime>
+    <datetime_raw>43076.7410883681</datetime_raw>
+    <value channel="Traffic Total (volume)">84 MByte</value>
+    <value_raw channel="Traffic Total (volume)">88578465.0000</value_raw>
+    <value channel="Traffic Total (speed)">12 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1476307.7500</value_raw>
+    <value channel="Traffic In (volume)">5 MByte</value>
+    <value_raw channel="Traffic In (volume)">4760974.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">79349.5667</value_raw>
+    <value channel="Traffic Out (volume)">80 MByte</value>
+    <value_raw channel="Traffic Out (volume)">83817491.0000</value_raw>
+    <value channel="Traffic Out (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1396958.1833</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:46:10 PM</datetime>
+    <datetime_raw>43076.7403938657</datetime_raw>
+    <value channel="Traffic Total (volume)">73 MByte</value>
+    <value_raw channel="Traffic Total (volume)">76597986.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1276845.9077</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3847770.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">64140.1900</value_raw>
+    <value channel="Traffic Out (volume)">69 MByte</value>
+    <value_raw channel="Traffic Out (volume)">72750216.0000</value_raw>
+    <value channel="Traffic Out (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1212705.7176</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:45:10 PM</datetime>
+    <datetime_raw>43076.7396995255</datetime_raw>
+    <value channel="Traffic Total (volume)">79 MByte</value>
+    <value_raw channel="Traffic Total (volume)">82753671.0000</value_raw>
+    <value channel="Traffic Total (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1379227.8500</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3762413.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">62706.8833</value_raw>
+    <value channel="Traffic Out (volume)">75 MByte</value>
+    <value_raw channel="Traffic Out (volume)">78991258.0000</value_raw>
+    <value channel="Traffic Out (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1316520.9667</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:44:10 PM</datetime>
+    <datetime_raw>43076.7390049769</datetime_raw>
+    <value channel="Traffic Total (volume)">78 MByte</value>
+    <value_raw channel="Traffic Total (volume)">81965951.0000</value_raw>
+    <value channel="Traffic Total (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1366326.9045</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3526291.0000</value_raw>
+    <value channel="Traffic In (speed)">0.47 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">58781.3136</value_raw>
+    <value channel="Traffic Out (volume)">75 MByte</value>
+    <value_raw channel="Traffic Out (volume)">78439660.0000</value_raw>
+    <value channel="Traffic Out (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1307545.5909</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:43:10 PM</datetime>
+    <datetime_raw>43076.7383105787</datetime_raw>
+    <value channel="Traffic Total (volume)">80 MByte</value>
+    <value_raw channel="Traffic Total (volume)">83592237.0000</value_raw>
+    <value channel="Traffic Total (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1393668.5062</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3770071.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">62855.4685</value_raw>
+    <value channel="Traffic Out (volume)">76 MByte</value>
+    <value_raw channel="Traffic Out (volume)">79822166.0000</value_raw>
+    <value channel="Traffic Out (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1330813.0377</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:42:10 PM</datetime>
+    <datetime_raw>43076.7376162731</datetime_raw>
+    <value channel="Traffic Total (volume)">63 MByte</value>
+    <value_raw channel="Traffic Total (volume)">66558490.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1109308.1667</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2884925.0000</value_raw>
+    <value channel="Traffic In (speed)">0.38 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">48082.0833</value_raw>
+    <value channel="Traffic Out (volume)">61 MByte</value>
+    <value_raw channel="Traffic Out (volume)">63673565.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1061226.0833</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:41:10 PM</datetime>
+    <datetime_raw>43076.7369217708</datetime_raw>
+    <value channel="Traffic Total (volume)">62 MByte</value>
+    <value_raw channel="Traffic Total (volume)">64990015.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1082986.4189</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3365057.0000</value_raw>
+    <value channel="Traffic In (speed)">0.45 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">56074.9375</value_raw>
+    <value channel="Traffic Out (volume)">59 MByte</value>
+    <value_raw channel="Traffic Out (volume)">61624958.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1026911.4814</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:40:10 PM</datetime>
+    <datetime_raw>43076.7362271065</datetime_raw>
+    <value channel="Traffic Total (volume)">66 MByte</value>
+    <value_raw channel="Traffic Total (volume)">69404261.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1157316.3415</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3401719.0000</value_raw>
+    <value channel="Traffic In (speed)">0.45 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">56723.6785</value_raw>
+    <value channel="Traffic Out (volume)">63 MByte</value>
+    <value_raw channel="Traffic Out (volume)">66002542.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1100592.6630</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:39:10 PM</datetime>
+    <datetime_raw>43076.7355329167</datetime_raw>
+    <value channel="Traffic Total (volume)">73 MByte</value>
+    <value_raw channel="Traffic Total (volume)">76362247.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1272492.0347</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3186136.0000</value_raw>
+    <value channel="Traffic In (speed)">0.42 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">53093.4178</value_raw>
+    <value channel="Traffic Out (volume)">70 MByte</value>
+    <value_raw channel="Traffic Out (volume)">73176111.0000</value_raw>
+    <value channel="Traffic Out (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1219398.6169</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:38:10 PM</datetime>
+    <datetime_raw>43076.7348383333</datetime_raw>
+    <value channel="Traffic Total (volume)">64 MByte</value>
+    <value_raw channel="Traffic Total (volume)">67043699.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1117581.2469</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3701694.0000</value_raw>
+    <value channel="Traffic In (speed)">0.49 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">61705.1842</value_raw>
+    <value channel="Traffic Out (volume)">60 MByte</value>
+    <value_raw channel="Traffic Out (volume)">63342005.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1055876.0627</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:37:10 PM</datetime>
+    <datetime_raw>43076.7341439236</datetime_raw>
+    <value channel="Traffic Total (volume)">69 MByte</value>
+    <value_raw channel="Traffic Total (volume)">72310313.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1205171.8833</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2940971.0000</value_raw>
+    <value channel="Traffic In (speed)">0.39 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">49016.1833</value_raw>
+    <value channel="Traffic Out (volume)">66 MByte</value>
+    <value_raw channel="Traffic Out (volume)">69369342.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1156155.7000</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:36:10 PM</datetime>
+    <datetime_raw>43076.7334494444</datetime_raw>
+    <value channel="Traffic Total (volume)">49 MByte</value>
+    <value_raw channel="Traffic Total (volume)">51287214.0000</value_raw>
+    <value channel="Traffic Total (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">854929.3882</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3612863.0000</value_raw>
+    <value channel="Traffic In (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">60224.4207</value_raw>
+    <value channel="Traffic Out (volume)">45 MByte</value>
+    <value_raw channel="Traffic Out (volume)">47674351.0000</value_raw>
+    <value channel="Traffic Out (speed)">6 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">794704.9675</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:35:10 PM</datetime>
+    <datetime_raw>43076.7327551042</datetime_raw>
+    <value channel="Traffic Total (volume)">50 MByte</value>
+    <value_raw channel="Traffic Total (volume)">52915705.0000</value_raw>
+    <value channel="Traffic Total (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">882075.4292</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3052798.0000</value_raw>
+    <value channel="Traffic In (speed)">0.41 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">50888.4481</value_raw>
+    <value channel="Traffic Out (volume)">48 MByte</value>
+    <value_raw channel="Traffic Out (volume)">49862907.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">831186.9812</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:34:10 PM</datetime>
+    <datetime_raw>43076.7320607060</datetime_raw>
+    <value channel="Traffic Total (volume)">71 MByte</value>
+    <value_raw channel="Traffic Total (volume)">74332687.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1238671.6714</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3569259.0000</value_raw>
+    <value channel="Traffic In (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">59477.7370</value_raw>
+    <value channel="Traffic Out (volume)">67 MByte</value>
+    <value_raw channel="Traffic Out (volume)">70763428.0000</value_raw>
+    <value channel="Traffic Out (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1179193.9343</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:33:10 PM</datetime>
+    <datetime_raw>43076.7313661227</datetime_raw>
+    <value channel="Traffic Total (volume)">62 MByte</value>
+    <value_raw channel="Traffic Total (volume)">64954994.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1082583.2333</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3458648.0000</value_raw>
+    <value channel="Traffic In (speed)">0.46 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">57644.1333</value_raw>
+    <value channel="Traffic Out (volume)">59 MByte</value>
+    <value_raw channel="Traffic Out (volume)">61496346.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1024939.1000</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:32:10 PM</datetime>
+    <datetime_raw>43076.7306716088</datetime_raw>
+    <value channel="Traffic Total (volume)">53 MByte</value>
+    <value_raw channel="Traffic Total (volume)">55798158.0000</value_raw>
+    <value channel="Traffic Total (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">930124.3207</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2121840.0000</value_raw>
+    <value channel="Traffic In (speed)">0.28 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">35369.8950</value_raw>
+    <value channel="Traffic Out (volume)">51 MByte</value>
+    <value_raw channel="Traffic Out (volume)">53676318.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">894754.4257</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:31:10 PM</datetime>
+    <datetime_raw>43076.7299771875</datetime_raw>
+    <value channel="Traffic Total (volume)">55 MByte</value>
+    <value_raw channel="Traffic Total (volume)">58054501.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">967736.3061</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3838042.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">63978.0297</value_raw>
+    <value channel="Traffic Out (volume)">52 MByte</value>
+    <value_raw channel="Traffic Out (volume)">54216459.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">903758.2764</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:30:10 PM</datetime>
+    <datetime_raw>43076.7292828125</datetime_raw>
+    <value channel="Traffic Total (volume)">53 MByte</value>
+    <value_raw channel="Traffic Total (volume)">55289490.0000</value_raw>
+    <value channel="Traffic Total (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">921645.1075</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2499420.0000</value_raw>
+    <value channel="Traffic In (speed)">0.33 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">41663.9440</value_raw>
+    <value channel="Traffic Out (volume)">50 MByte</value>
+    <value_raw channel="Traffic Out (volume)">52790070.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">879981.1635</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:29:10 PM</datetime>
+    <datetime_raw>43076.7285884722</datetime_raw>
+    <value channel="Traffic Total (volume)">85 MByte</value>
+    <value_raw channel="Traffic Total (volume)">89317269.0000</value_raw>
+    <value channel="Traffic Total (speed)">12 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1488621.1500</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4213305.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">70221.7500</value_raw>
+    <value channel="Traffic Out (volume)">81 MByte</value>
+    <value_raw channel="Traffic Out (volume)">85103964.0000</value_raw>
+    <value channel="Traffic Out (speed)">11 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1418399.4000</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:28:10 PM</datetime>
+    <datetime_raw>43076.7278940046</datetime_raw>
+    <value channel="Traffic Total (volume)">64 MByte</value>
+    <value_raw channel="Traffic Total (volume)">66832305.0000</value_raw>
+    <value channel="Traffic Total (speed)">9 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1113686.1356</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3797005.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">63272.8712</value_raw>
+    <value channel="Traffic Out (volume)">60 MByte</value>
+    <value_raw channel="Traffic Out (volume)">63035300.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1050413.2645</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:27:10 PM</datetime>
+    <datetime_raw>43076.7271994213</datetime_raw>
+    <value channel="Traffic Total (volume)">60 MByte</value>
+    <value_raw channel="Traffic Total (volume)">63002974.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1050049.5667</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3573667.0000</value_raw>
+    <value channel="Traffic In (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">59561.1167</value_raw>
+    <value channel="Traffic Out (volume)">57 MByte</value>
+    <value_raw channel="Traffic Out (volume)">59429307.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">990488.4500</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:26:10 PM</datetime>
+    <datetime_raw>43076.7265048727</datetime_raw>
+    <value channel="Traffic Total (volume)">56 MByte</value>
+    <value_raw channel="Traffic Total (volume)">58356415.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">972931.2271</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4379454.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">73015.2384</value_raw>
+    <value channel="Traffic Out (volume)">51 MByte</value>
+    <value_raw channel="Traffic Out (volume)">53976961.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">899915.9887</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:25:10 PM</datetime>
+    <datetime_raw>43076.7258105440</datetime_raw>
+    <value channel="Traffic Total (volume)">60 MByte</value>
+    <value_raw channel="Traffic Total (volume)">63239356.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1053989.2667</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3526070.0000</value_raw>
+    <value channel="Traffic In (speed)">0.47 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">58767.8333</value_raw>
+    <value channel="Traffic Out (volume)">57 MByte</value>
+    <value_raw channel="Traffic Out (volume)">59713286.0000</value_raw>
+    <value channel="Traffic Out (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">995221.4333</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:24:10 PM</datetime>
+    <datetime_raw>43076.7251160648</datetime_raw>
+    <value channel="Traffic Total (volume)">72 MByte</value>
+    <value_raw channel="Traffic Total (volume)">75616970.0000</value_raw>
+    <value channel="Traffic Total (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">1260492.9155</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3565625.0000</value_raw>
+    <value channel="Traffic In (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">59436.9895</value_raw>
+    <value channel="Traffic Out (volume)">69 MByte</value>
+    <value_raw channel="Traffic Out (volume)">72051345.0000</value_raw>
+    <value channel="Traffic Out (speed)">10 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">1201055.9260</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:23:10 PM</datetime>
+    <datetime_raw>43076.7244216667</datetime_raw>
+    <value channel="Traffic Total (volume)">54 MByte</value>
+    <value_raw channel="Traffic Total (volume)">56375441.0000</value_raw>
+    <value channel="Traffic Total (speed)">8 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">939747.3079</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2900347.0000</value_raw>
+    <value channel="Traffic In (speed)">0.39 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">48347.1745</value_raw>
+    <value channel="Traffic Out (volume)">51 MByte</value>
+    <value_raw channel="Traffic Out (volume)">53475094.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">891400.1334</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:22:10 PM</datetime>
+    <datetime_raw>43076.7237272338</datetime_raw>
+    <value channel="Traffic Total (volume)">22 MByte</value>
+    <value_raw channel="Traffic Total (volume)">23052015.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">384264.2940</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1375607.0000</value_raw>
+    <value channel="Traffic In (speed)">0.18 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">22930.6051</value_raw>
+    <value channel="Traffic Out (volume)">21 MByte</value>
+    <value_raw channel="Traffic Out (volume)">21676408.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">361333.6889</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:21:10 PM</datetime>
+    <datetime_raw>43076.7230328704</datetime_raw>
+    <value channel="Traffic Total (volume)">11 MByte</value>
+    <value_raw channel="Traffic Total (volume)">11618532.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">193642.2000</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1773999.0000</value_raw>
+    <value channel="Traffic In (speed)">0.24 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">29566.6500</value_raw>
+    <value channel="Traffic Out (volume)">9 MByte</value>
+    <value_raw channel="Traffic Out (volume)">9844533.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">164075.5500</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:20:10 PM</datetime>
+    <datetime_raw>43076.7223383449</datetime_raw>
+    <value channel="Traffic Total (volume)">20 MByte</value>
+    <value_raw channel="Traffic Total (volume)">20943646.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">349002.5996</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2070628.0000</value_raw>
+    <value channel="Traffic In (speed)">0.28 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">34504.7159</value_raw>
+    <value channel="Traffic Out (volume)">18 MByte</value>
+    <value_raw channel="Traffic Out (volume)">18873018.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">314497.8837</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:19:10 PM</datetime>
+    <datetime_raw>43076.7216437847</datetime_raw>
+    <value channel="Traffic Total (volume)">13 MByte</value>
+    <value_raw channel="Traffic Total (volume)">13617389.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">226994.3157</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1796769.0000</value_raw>
+    <value channel="Traffic In (speed)">0.24 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">29951.1419</value_raw>
+    <value channel="Traffic Out (volume)">11 MByte</value>
+    <value_raw channel="Traffic Out (volume)">11820620.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">197043.1739</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:18:10 PM</datetime>
+    <datetime_raw>43076.7209493750</datetime_raw>
+    <value channel="Traffic Total (volume)">26 MByte</value>
+    <value_raw channel="Traffic Total (volume)">26764453.0000</value_raw>
+    <value channel="Traffic Total (speed)">4 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">446297.3653</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2367418.0000</value_raw>
+    <value channel="Traffic In (speed)">0.32 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">39476.7050</value_raw>
+    <value channel="Traffic Out (volume)">23 MByte</value>
+    <value_raw channel="Traffic Out (volume)">24397035.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">406820.6603</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:17:10 PM</datetime>
+    <datetime_raw>43076.7202552546</datetime_raw>
+    <value channel="Traffic Total (volume)">6 MByte</value>
+    <value_raw channel="Traffic Total (volume)">6347108.0000</value_raw>
+    <value channel="Traffic Total (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">105767.5054</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1684723.0000</value_raw>
+    <value channel="Traffic In (speed)">0.22 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">28074.0377</value_raw>
+    <value channel="Traffic Out (volume)">4 MByte</value>
+    <value_raw channel="Traffic Out (volume)">4662385.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">77693.4678</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:16:10 PM</datetime>
+    <datetime_raw>43076.7195606481</datetime_raw>
+    <value channel="Traffic Total (volume)">10 MByte</value>
+    <value_raw channel="Traffic Total (volume)">10389795.0000</value_raw>
+    <value channel="Traffic Total (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">173134.3943</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3249302.0000</value_raw>
+    <value channel="Traffic In (speed)">0.43 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">54146.0090</value_raw>
+    <value channel="Traffic Out (volume)">7 MByte</value>
+    <value_raw channel="Traffic Out (volume)">7140493.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">118988.3853</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:15:10 PM</datetime>
+    <datetime_raw>43076.7188659722</datetime_raw>
+    <value channel="Traffic Total (volume)">9 MByte</value>
+    <value_raw channel="Traffic Total (volume)">9110606.0000</value_raw>
+    <value channel="Traffic Total (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">151919.3930</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2573807.0000</value_raw>
+    <value channel="Traffic In (speed)">0.34 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">42918.2425</value_raw>
+    <value channel="Traffic Out (volume)">6 MByte</value>
+    <value_raw channel="Traffic Out (volume)">6536799.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">109001.1506</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:14:10 PM</datetime>
+    <datetime_raw>43076.7181717940</datetime_raw>
+    <value channel="Traffic Total (volume)">22 MByte</value>
+    <value_raw channel="Traffic Total (volume)">22601737.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">376570.0933</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2311031.0000</value_raw>
+    <value channel="Traffic In (speed)">0.31 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">38504.3486</value_raw>
+    <value channel="Traffic Out (volume)">19 MByte</value>
+    <value_raw channel="Traffic Out (volume)">20290706.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">338065.7448</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:13:10 PM</datetime>
+    <datetime_raw>43076.7174771065</datetime_raw>
+    <value channel="Traffic Total (volume)">17 MByte</value>
+    <value_raw channel="Traffic Total (volume)">17409528.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">290255.5519</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2619291.0000</value_raw>
+    <value channel="Traffic In (speed)">0.35 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">43669.4065</value_raw>
+    <value channel="Traffic Out (volume)">14 MByte</value>
+    <value_raw channel="Traffic Out (volume)">14790237.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">246586.1454</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:12:10 PM</datetime>
+    <datetime_raw>43076.7167828241</datetime_raw>
+    <value channel="Traffic Total (volume)">21 MByte</value>
+    <value_raw channel="Traffic Total (volume)">22136570.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">369004.3341</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1702488.0000</value_raw>
+    <value channel="Traffic In (speed)">0.23 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">28379.5299</value_raw>
+    <value channel="Traffic Out (volume)">19 MByte</value>
+    <value_raw channel="Traffic Out (volume)">20434082.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">340624.8041</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:11:10 PM</datetime>
+    <datetime_raw>43076.7160883912</datetime_raw>
+    <value channel="Traffic Total (volume)">9 MByte</value>
+    <value_raw channel="Traffic Total (volume)">9627613.0000</value_raw>
+    <value channel="Traffic Total (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">160460.2167</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1873443.0000</value_raw>
+    <value channel="Traffic In (speed)">0.25 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">31224.0500</value_raw>
+    <value channel="Traffic Out (volume)">7 MByte</value>
+    <value_raw channel="Traffic Out (volume)">7754170.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">129236.1667</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:10:10 PM</datetime>
+    <datetime_raw>43076.7153938889</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1331670.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.18 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">22198.1997</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1331388.0000</value_raw>
+    <value channel="Traffic In (speed)">0.18 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">22193.4989</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7008</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:09:10 PM</datetime>
+    <datetime_raw>43076.7146995255</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1615891.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.22 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">26936.0060</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1615545.0000</value_raw>
+    <value channel="Traffic In (speed)">0.22 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">26930.2384</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">346.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.7676</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:08:10 PM</datetime>
+    <datetime_raw>43076.7140051042</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1193642.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.16 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">19894.0333</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1193279.0000</value_raw>
+    <value channel="Traffic In (speed)">0.16 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">19887.9833</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">363.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">6.0500</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:07:10 PM</datetime>
+    <datetime_raw>43076.7133105671</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1086845.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.14 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">18111.0648</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1086563.0000</value_raw>
+    <value channel="Traffic In (speed)">0.14 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">18106.3656</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.6992</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:06:10 PM</datetime>
+    <datetime_raw>43076.7126159954</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1486020.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">24771.1285</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1485661.0000</value_raw>
+    <value channel="Traffic In (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">24765.1442</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">359.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.9843</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:05:10 PM</datetime>
+    <datetime_raw>43076.7119216204</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1263453.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.17 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">21061.0602</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1263171.0000</value_raw>
+    <value channel="Traffic In (speed)">0.17 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">21056.3594</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7008</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:04:10 PM</datetime>
+    <datetime_raw>43076.7112272917</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">789530.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.11 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">13161.0268</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">789184.0000</value_raw>
+    <value channel="Traffic In (speed)">0.11 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">13155.2592</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">346.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.7676</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:03:10 PM</datetime>
+    <datetime_raw>43076.7105328472</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1090539.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.15 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">18178.6798</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1090257.0000</value_raw>
+    <value channel="Traffic In (speed)">0.15 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">18173.9790</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7008</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:02:10 PM</datetime>
+    <datetime_raw>43076.7098384722</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1286242.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.17 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">21440.9402</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1285896.0000</value_raw>
+    <value channel="Traffic In (speed)">0.17 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">21435.1725</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">346.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.7676</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:01:10 PM</datetime>
+    <datetime_raw>43076.7091441204</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1991949.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.27 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">33171.5071</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1655076.0000</value_raw>
+    <value channel="Traffic In (speed)">0.22 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">27561.6320</value_raw>
+    <value channel="Traffic Out (volume)">0.32 MByte</value>
+    <value_raw channel="Traffic Out (volume)">336873.0000</value_raw>
+    <value channel="Traffic Out (speed)">0.04 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5609.8751</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 11:00:10 PM</datetime>
+    <datetime_raw>43076.7084490972</datetime_raw>
+    <value channel="Traffic Total (volume)">12 MByte</value>
+    <value_raw channel="Traffic Total (volume)">12309599.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">205296.8479</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1387041.0000</value_raw>
+    <value channel="Traffic In (speed)">0.19 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">23132.7718</value_raw>
+    <value channel="Traffic Out (volume)">10 MByte</value>
+    <value_raw channel="Traffic Out (volume)">10922558.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">182164.0761</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:59:10 PM</datetime>
+    <datetime_raw>43076.7077550347</datetime_raw>
+    <value channel="Traffic Total (volume)">14 MByte</value>
+    <value_raw channel="Traffic Total (volume)">15119040.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">251984.0000</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1605866.0000</value_raw>
+    <value channel="Traffic In (speed)">0.21 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">26764.4333</value_raw>
+    <value channel="Traffic Out (volume)">13 MByte</value>
+    <value_raw channel="Traffic Out (volume)">13513174.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">225219.5667</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:58:10 PM</datetime>
+    <datetime_raw>43076.7070604861</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1415505.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.19 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">23595.6826</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1405237.0000</value_raw>
+    <value channel="Traffic In (speed)">0.19 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">23424.5208</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">10268.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">171.1619</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:57:10 PM</datetime>
+    <datetime_raw>43076.7063661343</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1493634.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">24893.9000</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1493352.0000</value_raw>
+    <value channel="Traffic In (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">24889.2000</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7000</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:56:10 PM</datetime>
+    <datetime_raw>43076.7056716435</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2731377.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.36 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">45515.3641</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2731095.0000</value_raw>
+    <value channel="Traffic In (speed)">0.36 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">45510.6649</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.6992</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:55:10 PM</datetime>
+    <datetime_raw>43076.7049770370</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1898332.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.25 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">31659.9733</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1897973.0000</value_raw>
+    <value channel="Traffic In (speed)">0.25 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">31653.9860</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">359.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.9873</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:54:10 PM</datetime>
+    <datetime_raw>43076.7042829514</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2546130.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.34 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">42421.3595</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2545784.0000</value_raw>
+    <value channel="Traffic In (speed)">0.34 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">42415.5948</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">346.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.7647</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:53:10 PM</datetime>
+    <datetime_raw>43076.7035882176</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">3640804.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.49 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">60761.0814</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3640522.0000</value_raw>
+    <value channel="Traffic In (speed)">0.49 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">60756.3752</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7063</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:52:10 PM</datetime>
+    <datetime_raw>43076.7028946875</datetime_raw>
+    <value channel="Traffic Total (volume)">4 MByte</value>
+    <value_raw channel="Traffic Total (volume)">4526335.0000</value_raw>
+    <value channel="Traffic Total (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">75338.4654</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">4526053.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">75333.7716</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.6937</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:51:10 PM</datetime>
+    <datetime_raw>43076.7021992014</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">3606292.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">60134.9341</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3606010.0000</value_raw>
+    <value channel="Traffic In (speed)">0.48 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">60130.2318</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7024</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:50:10 PM</datetime>
+    <datetime_raw>43076.7015050579</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">3398444.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.45 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">56621.8594</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3398085.0000</value_raw>
+    <value channel="Traffic In (speed)">0.45 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">56615.8780</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">359.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.9813</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:49:10 PM</datetime>
+    <datetime_raw>43076.7008103472</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2382299.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.32 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">39711.6019</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2381936.0000</value_raw>
+    <value channel="Traffic In (speed)">0.32 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">39705.5509</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">363.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">6.0510</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:48:10 PM</datetime>
+    <datetime_raw>43076.7001159375</datetime_raw>
+    <value channel="Traffic Total (volume)">25 MByte</value>
+    <value_raw channel="Traffic Total (volume)">26059974.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">434550.1751</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2646294.0000</value_raw>
+    <value channel="Traffic In (speed)">0.35 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">44126.9635</value_raw>
+    <value channel="Traffic Out (volume)">22 MByte</value>
+    <value_raw channel="Traffic Out (volume)">23413680.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">390423.2116</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:47:10 PM</datetime>
+    <datetime_raw>43076.6994217708</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2057840.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.27 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">34291.6181</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2057558.0000</value_raw>
+    <value channel="Traffic In (speed)">0.27 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">34286.9188</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.6992</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:46:10 PM</datetime>
+    <datetime_raw>43076.6987272106</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2187709.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.29 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">36473.9747</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2187427.0000</value_raw>
+    <value channel="Traffic In (speed)">0.29 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">36469.2731</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7016</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:45:10 PM</datetime>
+    <datetime_raw>43076.6980329861</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2390479.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.32 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">39821.4060</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2390120.0000</value_raw>
+    <value channel="Traffic In (speed)">0.32 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">39815.4256</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">359.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">5.9803</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:44:10 PM</datetime>
+    <datetime_raw>43076.6973381944</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1837131.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.25 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">30629.0597</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1836849.0000</value_raw>
+    <value channel="Traffic In (speed)">0.24 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">30624.3581</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7016</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:43:10 PM</datetime>
+    <datetime_raw>43076.6966439005</datetime_raw>
+    <value channel="Traffic Total (volume)">12 MByte</value>
+    <value_raw channel="Traffic Total (volume)">12121447.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">202024.1167</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2524893.0000</value_raw>
+    <value channel="Traffic In (speed)">0.34 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">42081.5500</value_raw>
+    <value channel="Traffic Out (volume)">9 MByte</value>
+    <value_raw channel="Traffic Out (volume)">9596554.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">159942.5667</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:42:10 PM</datetime>
+    <datetime_raw>43076.6959493750</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">3062573.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.41 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">51059.9033</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3062291.0000</value_raw>
+    <value channel="Traffic In (speed)">0.41 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">51055.2017</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7016</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:41:10 PM</datetime>
+    <datetime_raw>43076.6952550694</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2671745.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.36 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">44536.5061</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2670101.0000</value_raw>
+    <value channel="Traffic In (speed)">0.36 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">44509.1015</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">1644.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">27.4046</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:40:10 PM</datetime>
+    <datetime_raw>43076.6945606481</datetime_raw>
+    <value channel="Traffic Total (volume)">16 MByte</value>
+    <value_raw channel="Traffic Total (volume)">16556830.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">275947.1667</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3447147.0000</value_raw>
+    <value channel="Traffic In (speed)">0.46 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">57452.4500</value_raw>
+    <value channel="Traffic Out (volume)">13 MByte</value>
+    <value_raw channel="Traffic Out (volume)">13109683.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">218494.7167</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:39:10 PM</datetime>
+    <datetime_raw>43076.6938661458</datetime_raw>
+    <value channel="Traffic Total (volume)">8 MByte</value>
+    <value_raw channel="Traffic Total (volume)">7939013.0000</value_raw>
+    <value channel="Traffic Total (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">132338.9398</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1582232.0000</value_raw>
+    <value channel="Traffic In (speed)">0.21 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">26374.9292</value_raw>
+    <value channel="Traffic Out (volume)">6 MByte</value>
+    <value_raw channel="Traffic Out (volume)">6356781.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">105964.0107</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:38:10 PM</datetime>
+    <datetime_raw>43076.6931717245</datetime_raw>
+    <value channel="Traffic Total (volume)">37 MByte</value>
+    <value_raw channel="Traffic Total (volume)">39189053.0000</value_raw>
+    <value channel="Traffic Total (speed)">5 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">653150.8833</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2883392.0000</value_raw>
+    <value channel="Traffic In (speed)">0.38 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">48056.5333</value_raw>
+    <value channel="Traffic Out (volume)">35 MByte</value>
+    <value_raw channel="Traffic Out (volume)">36305661.0000</value_raw>
+    <value channel="Traffic Out (speed)">5 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">605094.3500</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:37:10 PM</datetime>
+    <datetime_raw>43076.6924772685</datetime_raw>
+    <value channel="Traffic Total (volume)">52 MByte</value>
+    <value_raw channel="Traffic Total (volume)">54298740.0000</value_raw>
+    <value channel="Traffic Total (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">904979.0000</value_raw>
+    <value channel="Traffic In (volume)">5 MByte</value>
+    <value_raw channel="Traffic In (volume)">4787140.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">79785.6667</value_raw>
+    <value channel="Traffic Out (volume)">47 MByte</value>
+    <value_raw channel="Traffic Out (volume)">49511600.0000</value_raw>
+    <value channel="Traffic Out (speed)">7 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">825193.3333</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:36:10 PM</datetime>
+    <datetime_raw>43076.6917827546</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1537265.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.21 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">25625.3542</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1534585.0000</value_raw>
+    <value channel="Traffic In (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">25580.6801</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">2680.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">44.6741</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:35:10 PM</datetime>
+    <datetime_raw>43076.6910884028</datetime_raw>
+    <value channel="Traffic Total (volume)">18 MByte</value>
+    <value_raw channel="Traffic Total (volume)">19072012.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">317866.8667</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2228283.0000</value_raw>
+    <value channel="Traffic In (speed)">0.30 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">37138.0500</value_raw>
+    <value channel="Traffic Out (volume)">16 MByte</value>
+    <value_raw channel="Traffic Out (volume)">16843729.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">280728.8167</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:34:10 PM</datetime>
+    <datetime_raw>43076.6903939120</datetime_raw>
+    <value channel="Traffic Total (volume)">15 MByte</value>
+    <value_raw channel="Traffic Total (volume)">16007994.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">266888.8630</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1430515.0000</value_raw>
+    <value channel="Traffic In (speed)">0.19 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">23849.8666</value_raw>
+    <value channel="Traffic Out (volume)">14 MByte</value>
+    <value_raw channel="Traffic Out (volume)">14577479.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">243038.9963</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:33:10 PM</datetime>
+    <datetime_raw>43076.6896996296</datetime_raw>
+    <value channel="Traffic Total (volume)">36 MByte</value>
+    <value_raw channel="Traffic Total (volume)">37262862.0000</value_raw>
+    <value channel="Traffic Total (speed)">5 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">620944.2093</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1928889.0000</value_raw>
+    <value channel="Traffic In (speed)">0.26 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">32142.7929</value_raw>
+    <value channel="Traffic Out (volume)">34 MByte</value>
+    <value_raw channel="Traffic Out (volume)">35333973.0000</value_raw>
+    <value channel="Traffic Out (speed)">5 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">588801.4164</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:32:10 PM</datetime>
+    <datetime_raw>43076.6890050463</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1400799.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.19 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">23350.5418</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1400517.0000</value_raw>
+    <value channel="Traffic In (speed)">0.19 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">23345.8410</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7008</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:31:10 PM</datetime>
+    <datetime_raw>43076.6883107060</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1262629.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.17 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">21075.4298</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1262347.0000</value_raw>
+    <value channel="Traffic In (speed)">0.17 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">21070.7228</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7071</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:30:10 PM</datetime>
+    <datetime_raw>43076.6876172569</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1195906.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.16 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">19898.6023</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1195624.0000</value_raw>
+    <value channel="Traffic In (speed)">0.16 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">19893.9101</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.6922</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:29:10 PM</datetime>
+    <datetime_raw>43076.6869216435</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1186556.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.16 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">19769.3436</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1186052.0000</value_raw>
+    <value channel="Traffic In (speed)">0.16 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">19760.9464</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">504.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">8.3972</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:28:10 PM</datetime>
+    <datetime_raw>43076.6862269329</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1510107.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">25181.0405</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1509825.0000</value_raw>
+    <value channel="Traffic In (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">25176.3382</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7024</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:27:10 PM</datetime>
+    <datetime_raw>43076.6855327546</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1510920.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">25190.3968</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1510638.0000</value_raw>
+    <value channel="Traffic In (speed)">0.20 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">25185.6952</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7016</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:26:10 PM</datetime>
+    <datetime_raw>43076.6848384722</datetime_raw>
+    <value channel="Traffic Total (volume)">7 MByte</value>
+    <value_raw channel="Traffic Total (volume)">7491763.0000</value_raw>
+    <value channel="Traffic Total (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">124841.9097</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1905057.0000</value_raw>
+    <value channel="Traffic In (speed)">0.25 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">31745.6591</value_raw>
+    <value channel="Traffic Out (volume)">5 MByte</value>
+    <value_raw channel="Traffic Out (volume)">5586706.0000</value_raw>
+    <value channel="Traffic Out (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">93096.2506</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:25:10 PM</datetime>
+    <datetime_raw>43076.6841439120</datetime_raw>
+    <value channel="Traffic Total (volume)">19 MByte</value>
+    <value_raw channel="Traffic Total (volume)">19908541.0000</value_raw>
+    <value channel="Traffic Total (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">331864.3274</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2273881.0000</value_raw>
+    <value channel="Traffic In (speed)">0.30 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">37904.3341</value_raw>
+    <value channel="Traffic Out (volume)">17 MByte</value>
+    <value_raw channel="Traffic Out (volume)">17634660.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">293959.9933</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:24:10 PM</datetime>
+    <datetime_raw>43076.6834495023</datetime_raw>
+    <value channel="Traffic Total (volume)">25 MByte</value>
+    <value_raw channel="Traffic Total (volume)">26353066.0000</value_raw>
+    <value channel="Traffic Total (speed)">4 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">439071.4095</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2423218.0000</value_raw>
+    <value channel="Traffic In (speed)">0.32 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">40373.5088</value_raw>
+    <value channel="Traffic Out (volume)">23 MByte</value>
+    <value_raw channel="Traffic Out (volume)">23929848.0000</value_raw>
+    <value channel="Traffic Out (speed)">3 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">398697.9007</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:23:10 PM</datetime>
+    <datetime_raw>43076.6827547685</datetime_raw>
+    <value channel="Traffic Total (volume)">31 MByte</value>
+    <value_raw channel="Traffic Total (volume)">32312634.0000</value_raw>
+    <value channel="Traffic Total (speed)">4 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">538813.3067</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3293497.0000</value_raw>
+    <value channel="Traffic In (speed)">0.44 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">54919.0762</value_raw>
+    <value channel="Traffic Out (volume)">28 MByte</value>
+    <value_raw channel="Traffic Out (volume)">29019137.0000</value_raw>
+    <value channel="Traffic Out (speed)">4 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">483894.2304</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:22:10 PM</datetime>
+    <datetime_raw>43076.6820606250</datetime_raw>
+    <value channel="Traffic Total (volume)">17 MByte</value>
+    <value_raw channel="Traffic Total (volume)">18069453.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">301057.1976</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3450675.0000</value_raw>
+    <value channel="Traffic In (speed)">0.46 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">57492.0860</value_raw>
+    <value channel="Traffic Out (volume)">14 MByte</value>
+    <value_raw channel="Traffic Out (volume)">14618778.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">243565.1116</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:21:10 PM</datetime>
+    <datetime_raw>43076.6813658912</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1977782.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.26 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">32979.5231</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1977500.0000</value_raw>
+    <value channel="Traffic In (speed)">0.26 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">32974.8207</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7024</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:20:10 PM</datetime>
+    <datetime_raw>43076.6806717593</datetime_raw>
+    <value channel="Traffic Total (volume)">42 MByte</value>
+    <value_raw channel="Traffic Total (volume)">44544020.0000</value_raw>
+    <value channel="Traffic Total (speed)">6 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">742276.6206</value_raw>
+    <value channel="Traffic In (volume)">4 MByte</value>
+    <value_raw channel="Traffic In (volume)">3972321.0000</value_raw>
+    <value channel="Traffic In (speed)">1 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">66194.3176</value_raw>
+    <value channel="Traffic Out (volume)">39 MByte</value>
+    <value_raw channel="Traffic Out (volume)">40571699.0000</value_raw>
+    <value channel="Traffic Out (speed)">5 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">676082.3029</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:19:10 PM</datetime>
+    <datetime_raw>43076.6799771643</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">3405435.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.45 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">56747.7920</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3389245.0000</value_raw>
+    <value channel="Traffic In (speed)">0.45 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">56478.0037</value_raw>
+    <value channel="Traffic Out (volume)">0.02 MByte</value>
+    <value_raw channel="Traffic Out (volume)">16190.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">269.7884</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:18:10 PM</datetime>
+    <datetime_raw>43076.6792825347</datetime_raw>
+    <value channel="Traffic Total (volume)">17 MByte</value>
+    <value_raw channel="Traffic Total (volume)">17397819.0000</value_raw>
+    <value channel="Traffic Total (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">290060.3368</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">3157494.0000</value_raw>
+    <value channel="Traffic In (speed)">0.42 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">52642.4475</value_raw>
+    <value channel="Traffic Out (volume)">14 MByte</value>
+    <value_raw channel="Traffic Out (volume)">14240325.0000</value_raw>
+    <value channel="Traffic Out (speed)">2 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">237417.8893</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:17:10 PM</datetime>
+    <datetime_raw>43076.6785882986</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2355214.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.31 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">39332.2311</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">2316761.0000</value_raw>
+    <value channel="Traffic In (speed)">0.31 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">38690.0635</value_raw>
+    <value channel="Traffic Out (volume)">0.04 MByte</value>
+    <value_raw channel="Traffic Out (volume)">38453.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">642.1677</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:16:10 PM</datetime>
+    <datetime_raw>43076.6778951620</datetime_raw>
+    <value channel="Traffic Total (volume)">2 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1813656.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.24 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">30177.3045</value_raw>
+    <value channel="Traffic In (volume)">2 MByte</value>
+    <value_raw channel="Traffic In (volume)">1813374.0000</value_raw>
+    <value channel="Traffic In (speed)">0.24 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">30172.6123</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.6922</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:15:10 PM</datetime>
+    <datetime_raw>43076.6771995023</datetime_raw>
+    <value channel="Traffic Total (volume)">3 MByte</value>
+    <value_raw channel="Traffic Total (volume)">2631279.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.35 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">43861.9603</value_raw>
+    <value channel="Traffic In (volume)">3 MByte</value>
+    <value_raw channel="Traffic In (volume)">2630997.0000</value_raw>
+    <value channel="Traffic In (speed)">0.35 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">43857.2595</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.7008</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+   <item>
+    <datetime>12/7/2017 10:14:10 PM</datetime>
+    <datetime_raw>43076.6765051505</datetime_raw>
+    <value channel="Traffic Total (volume)">1 MByte</value>
+    <value_raw channel="Traffic Total (volume)">1560094.0000</value_raw>
+    <value channel="Traffic Total (speed)">0.21 Mbit/s</value>
+    <value_raw channel="Traffic Total (speed)">25992.9024</value_raw>
+    <value channel="Traffic In (volume)">1 MByte</value>
+    <value_raw channel="Traffic In (volume)">1559812.0000</value_raw>
+    <value channel="Traffic In (speed)">0.21 Mbit/s</value>
+    <value_raw channel="Traffic In (speed)">25988.2039</value_raw>
+    <value channel="Traffic Out (volume)">&lt; 0.01 MByte</value>
+    <value_raw channel="Traffic Out (volume)">282.0000</value_raw>
+    <value channel="Traffic Out (speed)">&lt; 0.01 Mbit/s</value>
+    <value_raw channel="Traffic Out (speed)">4.6984</value_raw>
+    <value channel="Downtime">0 %</value>
+    <value_raw channel="Downtime">0.0000</value_raw>
+    <coverage>100 %</coverage>
+    <coverage_raw>0000010000</coverage_raw>
+    <objid/>
+    <baselink/>
+   </item>
+  </values>
+  
