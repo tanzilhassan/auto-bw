@@ -5,8 +5,7 @@ print(' / ___ / /_/ / / / / /_/ / /_/ /| |/ |/ /  ')
 print('/_/  |_\____/ /_/  \____/_____/ |__/|__/   ')
 print('                                           ')
 
-print('v 1.1')
-#print('by Nafiz Imtiaz')
+
 
 import requests
 import sys
