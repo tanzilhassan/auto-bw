@@ -14,8 +14,8 @@ import re
 from time import gmtime, strftime, localtime
 
 #url's
-prtgurl = 'http://ipsla.equitel.com.bd'
-xmlurl = 'http://ipsla.equitel.com.bd/api/table.xml?&content=values&sortby=-datetime&display=extendedheaders&varexpand=tabletitle&tabletitle=Sensor%20Data&graphid=0&columns=datetime%2Cvalue_%2Ccoverage%2Cobjid%2Cbaselink&id='
+prtgurl = 'http://mrtg.equitel.com.bd'
+xmlurl = 'http://mrtg.equitel.com.bd/api/table.xml?&content=values&sortby=-datetime&display=extendedheaders&varexpand=tabletitle&tabletitle=Sensor%20Data&graphid=0&columns=datetime%2Cvalue_%2Ccoverage%2Cobjid%2Cbaselink&id='
 urlid = [
 {'id':'5357', 'name': 'IIG Total (CR/Po1)'},
 {'id':'5358', 'name': 'F@H Primary'},
